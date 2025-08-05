@@ -3,7 +3,7 @@
 An Israeli FPS & Shooter gaming community website built with **React** and **Tailwind CSS**.  
 Modern dark-themed design with glowing effects, smooth scrolling, and Discord integration.
 
-![Screenshot](public/images/screenshot.jpg)
+![Screenshot](public/images/screenshot.png)
 
 ## 🌍 Live Demo
 [🔗 Visit Akrav Gaming](http://akrav-gaming.netlify.app)
